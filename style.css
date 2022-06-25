@@ -11,6 +11,12 @@ body {
 
 /* Add styles here! */
 
+.max-width-wrapper {
+  max-width: fit-content;
+  margin: auto;
+  /* border: solid 1px teal; */
+}
+
 header {
   /* border: 2px solid blue; */
 }
@@ -34,11 +40,6 @@ header h1 {
 }
 
 
-.max-width-wrapper {
-  max-width: fit-content;
-  margin: auto;
-  /* border: solid 1px teal; */
-}
 
 strong {
   color: green;
